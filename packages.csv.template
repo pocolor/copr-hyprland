@@ -1,0 +1,11 @@
+aquamarine,hyprwm/aquamarine,unset
+hyprcursor,hyprwm/hyprcursor,unset
+hyprgraphics,hyprwm/hyprgraphics,unset
+hyprland,hyprwm/Hyprland,unset
+hyprland-protocols,hyprwm/hyprland-protocols,unset
+hyprlang,hyprwm/hyprlang,unset
+hyprtoolkit,hyprwm/hyprtoolkit,unset
+hyprutils,hyprwm/hyprutils,unset
+hyprwayland-scanner,hyprwm/hyprwayland-scanner,unset
+hyprwire,hyprwm/hyprwire,unset
+xdg-desktop-portal-hyprland,hyprwm/xdg-desktop-portal-hyprland,unset
